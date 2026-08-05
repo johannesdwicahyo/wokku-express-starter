@@ -1,6 +1,6 @@
 # Wokku Express Starter
 
-A bare-bones [Express](https://expressjs.com) app ready for one-click deployment on [Wokku](https://wokku.cloud) — the managed Dokku platform. Deploy in seconds via `git push`, with automatic SSL, custom domains, and zero server management. Uses the `heroku/nodejs` buildpack with Node 20 LTS.
+A bare-bones [Express](https://expressjs.com) app ready for one-click deployment on [Wokku](https://wokku.cloud). Deploy in seconds via `git push`, with automatic SSL, custom domains, and zero server management.
 
 ## Deploy to Wokku
 
